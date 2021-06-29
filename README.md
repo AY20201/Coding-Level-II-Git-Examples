@@ -6,3 +6,4 @@ Practicing Git Commands!
 modification
 new modification
 edited from remote repo
+making merge conflict
